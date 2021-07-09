@@ -1,0 +1,12 @@
+.page-erro{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.page-erro img{
+    margin-top: 20px;
+    width: 400px;
+    height: 400px;
+}

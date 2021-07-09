@@ -1,0 +1,16 @@
+.erro-favoritos{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.erro-favoritos h3{
+    margin-top: 100px;
+    color: #7D7F7C;
+}
+
+.erro-favoritos img{
+    width: 150px;
+    height: 150px;
+}
