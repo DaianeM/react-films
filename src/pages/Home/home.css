@@ -3,7 +3,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 800px;
+    width: 700px;
 }
 
 .lista-filmes{
@@ -17,7 +17,7 @@
     margin: 15px;
     padding: 15px;
     border-radius: 5px;
-    background-color: #FEFFCA;
+    background-color: #FFF;
 }
 
 .lista-filmes strong{
@@ -32,8 +32,8 @@
 
 .lista-filmes article a{
     text-decoration: none;
-    color: #FEFFCA;
-    background-color: #8F1402;
+    color: #FFF;
+    background-color: #040348;
     text-align: center;
     padding: 8px 0 8px 0;
     font-size: 20px;

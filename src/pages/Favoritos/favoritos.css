@@ -29,7 +29,7 @@ span{
 
 a{
     text-decoration: none;
-    color: #8F1402;
+    color: #040348;
 }
 
 button{
@@ -40,8 +40,8 @@ button{
     padding: 6px 10px 6px 10px;
     cursor: pointer;
     outline: none;
-    background-color: #8F1402;
-    color: #FEFFCA; 
+    background-color: #040348;
+    color: #FFF; 
 }
 
 button:hover{
