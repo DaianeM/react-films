@@ -6,6 +6,7 @@
     width: 100%;
     justify-content: center;
     align-items: center;
+    margin-top: 25px;
 }
 
 .meus-filmes ul{
@@ -29,7 +30,7 @@ span{
 
 a{
     text-decoration: none;
-    color: #040348;
+    color: #070D0D;
 }
 
 button{
@@ -40,7 +41,7 @@ button{
     padding: 6px 10px 6px 10px;
     cursor: pointer;
     outline: none;
-    background-color: #040348;
+    background-color: #070D0D;
     color: #FFF; 
 }
 

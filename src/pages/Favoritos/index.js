@@ -31,7 +31,6 @@ export default function Favoritos(){
 
     return(
         <div className="meus-filmes">
-            <h1>Meus Favoritos</h1>
 
             {filmes.length === 0 && 
                 <Errofavoritos/>
